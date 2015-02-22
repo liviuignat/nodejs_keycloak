@@ -1,0 +1,16 @@
+{
+  "name": "nodejs_keycloak",
+  "version": "1.0.0",
+  "description": "A test of nodejs Oauth server with keycloak",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liviu Ignat",
+  "license": "ISC",
+  "dependencies": {
+    "connect-keycloak": "0.0.13",
+    "express": "^4.11.2",
+    "express-session": "^1.10.3"
+  }
+}
